@@ -1,5 +1,3 @@
-Got it! Let's add emojis relevant to the context of database operations and programming. Here’s the updated documentation with appropriate emojis:
-
 ## 📊 Database Abstraction Layer
 
 Qbix provides excellent facilities for using databases. There are several reasons to use them in your app, including:
