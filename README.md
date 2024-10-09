@@ -199,8 +199,6 @@ Db::connect('Users')
 
 This will produce the appropriate inequalities when composing the database query. It also works with [database sharding](QP/guide?page=sharding).
 
----
-
 ### ✨ Database Expressions
 
 By default, Qbix's database library sanitizes values that you pass when building queries. For example, if you wrote:
@@ -307,7 +305,7 @@ By enabling logging, you can see the queries executed, which is useful for debug
 
 ---
 
-### 📚 Models
+## 📚 Models
 
 ### 📦 Classes
 
@@ -480,10 +478,6 @@ $article->get_tagVotes('*', array(
 ));
 $article->get_author('u.firstName, u.lastName');
 ```
-
-Here’s the final section with emojis added:
-
----
 
 ### 💾 Caching
 
