@@ -199,8 +199,6 @@ Db::connect('Users')
 
 This will produce the appropriate inequalities when composing the database query. It also works with [database sharding](QP/guide?page=sharding).
 
-Got it! Here’s the same content with emojis for added flair:
-
 ---
 
 ### ✨ Database Expressions
@@ -393,8 +391,6 @@ $row->clear('foo', 'bar');
 ```
 
 Besides this, `Db_Row` has a lot more functionality, which you can discover in the class reference. 📖
-
-Sure! Here’s the final section with emojis added throughout:
 
 ---
 
